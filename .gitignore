@@ -1,0 +1,16 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Media renders
+*.mp4
+*.mp3
+*.wav
+*.png
+*.bin
