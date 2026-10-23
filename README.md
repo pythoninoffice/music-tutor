@@ -31,18 +31,18 @@ Sample frames from tutorial videos rendered with different themes:
 
 ### Evangelion Theme
 
-<img src="examples/stills/evangelion/still_intro.png" alt="Evangelion intro" width="600"/>
+<img src="examples/stills/evangelion/still_runup.png" alt="Evangelion runup" width="600"/>
 
 **Additional stills:**
+- `examples/stills/evangelion/still_intro.png`
 - `examples/stills/evangelion/still_chorus.png`
-- `examples/stills/evangelion/still_runup.png`
 
 ### Interstellar Theme
 
-<img src="examples/stills/interstellar/still_intro.png" alt="Interstellar intro" width="600"/>
+<img src="examples/stills/interstellar/still_bar25.png" alt="Interstellar bar 25" width="600"/>
 
 **Additional stills:**
-- `examples/stills/interstellar/still_bar25.png`
+- `examples/stills/interstellar/still_intro.png`
 - `examples/stills/interstellar/still_bar30.png`
 - `examples/stills/interstellar/still_bar100.png`
 - `examples/stills/interstellar/still_bar101.png`
